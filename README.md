@@ -1,8 +1,8 @@
 # AtliQ-Grand-Hospitality
-AtliQ Grands a five stars hotel chain is operating in 4 cities.
-It has 7 properties with branches in all these 4 cities.
-The rooms in these properties are categorized into 4 categories: Elite, Premium, Presidential, & Standard.
-There are 6 main platforms to book the rooms and some other platforms that are not as effective as others.
+- AtliQ Grands a five stars hotel chain is operating in 4 cities.
+- It has 7 properties with branches in all these 4 cities.
+- The rooms in these properties are categorized into 4 categories: Elite, Premium, Presidential, & Standard.
+- There are 6 main platforms to book the rooms and some other platforms that are not as effective as others.
 
 ## Problem Statements
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -13,6 +13,10 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Create the metrics according to the metric list.
 - Create a dashboard according to the mock-up provided by stakeholders.
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+## Mockup Dashboard
+![mock up dashboard_atliq grands](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/d075b30e-c140-46b6-a2a3-e49f162be4c3)
+
 ## Approaches
 - Project Planning and Scoping
 - Data Collection and Exploration
@@ -43,6 +47,18 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Dahboards 
 Link for Live Dahboards Interactions :-https://app.powerbi.com/groups/me/reports/6af1463b-ec45-4fec-b85d-bd90974a46e6/ReportSection?experience=power-bi
+
+## Dashboard Briefs:-
+### Revenue Level Analysis:-
+ ![revenue-hospitality-analysis](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/b147d8b4-b0d5-4bf4-879b-09a86f555fbd)
+
+ ### Occupancy Level Analysis:-
+![occupancy-hospitality-analysis](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/8b41c422-3016-4e9d-a173-1782463927a1)
+
+ ### Booking Level Analysis:-
+ ![booking-hospitality-analysis](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/226dbcb1-5d64-40a4-a70a-4ebd8d96c0e0)
+
+
 
 
 
