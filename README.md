@@ -44,9 +44,10 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Booking Platforms – Choosing booking platforms provides insights to the marketing team to target accordingly. Also, improving AtliQ’s own platforms for generating direct revenue.
   ## Data Modelling:-
   ![image](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/82bd8f2d-6c5d-4c86-b513-353d7a6594ae)
-
+-----------------------------------------------------------------------------------
 ## Dahboards 
 Link for Live Dahboards Interactions :-https://app.powerbi.com/groups/me/reports/6af1463b-ec45-4fec-b85d-bd90974a46e6/ReportSection?experience=power-bi
+-----------------------------------------------------------------------------------
 
 ## Dashboard Briefs:-
 ### Revenue Level Analysis:-
