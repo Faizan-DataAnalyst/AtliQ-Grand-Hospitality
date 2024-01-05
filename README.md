@@ -50,14 +50,20 @@ Link for Live Dahboards Interactions :-https://app.powerbi.com/groups/me/reports
 -----------------------------------------------------------------------------------
 
 ## Dashboard Briefs:-
+
 ### Revenue Level Analysis:-
- ![revenue-hospitality-analysis](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/b147d8b4-b0d5-4bf4-879b-09a86f555fbd)
+![image](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/0b24833d-fc18-455a-90c3-b41a726b17e6)
+
+
 
  ### Occupancy Level Analysis:-
-![occupancy-hospitality-analysis](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/8b41c422-3016-4e9d-a173-1782463927a1)
+![image](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/e3b427e3-9fd3-4858-8621-714026ce8199)
+
+
 
  ### Booking Level Analysis:-
- ![booking-hospitality-analysis](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/226dbcb1-5d64-40a4-a70a-4ebd8d96c0e0)
+![image](https://github.com/Faizan-DataAnalyst/AtliQ-Grand-Hospitality/assets/144520186/5b88326a-5ab7-4cc6-b72a-398c21ed94b5)
+
 
 
 
